@@ -5,6 +5,9 @@
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,kiyawei.cn
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,live.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
